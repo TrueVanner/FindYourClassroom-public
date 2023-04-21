@@ -1,0 +1,20 @@
+[
+	[
+		{
+			"dotw": 0,
+			"periods": [
+				{
+                    "start": 1,
+                    "end": 2,
+                    "classes": [
+                        {
+                            "subject": 62,
+                            "level": 1,
+                            "room": 12
+                        }
+                    ]
+                }
+			]
+		}
+	]
+]
