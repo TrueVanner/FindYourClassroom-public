@@ -1,0 +1,1 @@
+Public version (no personal school information present) of my Computer Science Internal Assessment project completed as a part of IB Diploma Program. Provides assistance to students in finding their current or next class, showing when classes end and which rooms are free during the break. React Typescript & MUI used for frontend, Express.JS used for backend.
